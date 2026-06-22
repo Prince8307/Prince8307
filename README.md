@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there👋<br><br>Nice meeting you, I'm Prince<br><br>I'm currently pursuing B.tech final year<br>Ask me about Data science and fronted developer related stuff<br>I have many real time-based project
+Hi there👋<br><br>Nice meeting you, I'm Prince<br><br>I have completed B.tech<br>Ask me about Data science and fronted developer related stuff<br>I have many real time-based project
 
 
 ## 🌐 Socials:
